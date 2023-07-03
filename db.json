@@ -148,6 +148,6 @@
         "to": 15,
         "total": 80
     },
-    "pageCount": 6,
-    "total": 80
+    "pageCount": {},
+    "total": {}
 }
