@@ -1,0 +1,153 @@
+{
+    "rows": [
+        {
+            "id": 204675,
+            "indeed_module_id": "tov8xctwvs-crrk",
+            "indeed_module_name": "AbroadWorks",
+            "short_name": "A"
+        },
+        {
+            "id": 205697,
+            "indeed_module_id": "y0kxcclcbnkrg4eg",
+            "indeed_module_name": "AbroadWorks - Audio Interview",
+            "short_name": "A - A I"
+        },
+        {
+            "id": 203609,
+            "indeed_module_id": "qpj7pi89yftnzvm6",
+            "indeed_module_name": "AbroadWorks - Logic & Verbal Reasoning",
+            "short_name": "A - L & V R"
+        },
+        {
+            "id": 204677,
+            "indeed_module_id": "iu9xnysait1zoxpc",
+            "indeed_module_name": "AbroadWorks - Logic & Verbal Reasoning (Final)",
+            "short_name": "A - L & V R ("
+        },
+        {
+            "id": 203610,
+            "indeed_module_id": "90tjim2lf4jc962v",
+            "indeed_module_name": "AbroadWorks - Written English",
+            "short_name": "A - W E"
+        },
+        {
+            "id": 204678,
+            "indeed_module_id": "qkcelsoasawpxmb8",
+            "indeed_module_name": "AbroadWorks - Written English (Final)",
+            "short_name": "A - W E ("
+        },
+        {
+            "id": 204676,
+            "indeed_module_id": "dik1ps8izy2muyrj",
+            "indeed_module_name": "AbroadWorks Audio Interview",
+            "short_name": "A A I"
+        },
+        {
+            "id": 29,
+            "indeed_module_id": "phv9plwy08y7f6vl",
+            "indeed_module_name": "Ablage und Organisation",
+            "short_name": "A u O"
+        },
+        {
+            "id": 2,
+            "indeed_module_id": "pv5h34mf0wqfx7e",
+            "indeed_module_name": "Cognitive Ability",
+            "short_name": "C A"
+        },
+        {
+            "id": 132,
+            "indeed_module_id": "iga3rsgl1o-9ygcn",
+            "indeed_module_name": "Cognitive ability",
+            "short_name": "C a"
+        },
+        {
+            "id": 134,
+            "indeed_module_id": "lyconfezhh682vse",
+            "indeed_module_name": "Cognitive ability",
+            "short_name": "C a"
+        },
+        {
+            "id": 135,
+            "indeed_module_id": "pp1fmanwaj79fuoo",
+            "indeed_module_name": "Cognitive ability",
+            "short_name": "C a"
+        },
+        {
+            "id": 137,
+            "indeed_module_id": "aqzih9cps-gi4oea",
+            "indeed_module_name": "Cognitive ability",
+            "short_name": "C a"
+        },
+        {
+            "id": 140,
+            "indeed_module_id": "6jrk1u3xwnsiestj",
+            "indeed_module_name": "Cognitive ability",
+            "short_name": "C a"
+        },
+        {
+            "id": 141,
+            "indeed_module_id": "z-fzapy79dezexnf",
+            "indeed_module_name": "Cognitive ability ",
+            "short_name": "C a "
+        }
+    ],
+    "links": {
+        "first": "http://localhost:8000/api/v1/organization/01G682MQPFM8K0SAPMSZP3WQ3Q/indeed/module-list?page=1",
+        "last": "http://localhost:8000/api/v1/organization/01G682MQPFM8K0SAPMSZP3WQ3Q/indeed/module-list?page=6",
+        "prev": null,
+        "next": "http://localhost:8000/api/v1/organization/01G682MQPFM8K0SAPMSZP3WQ3Q/indeed/module-list?page=2"
+    },
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 6,
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "http://localhost:8000/api/v1/organization/01G682MQPFM8K0SAPMSZP3WQ3Q/indeed/module-list?page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": "http://localhost:8000/api/v1/organization/01G682MQPFM8K0SAPMSZP3WQ3Q/indeed/module-list?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": "http://localhost:8000/api/v1/organization/01G682MQPFM8K0SAPMSZP3WQ3Q/indeed/module-list?page=3",
+                "label": "3",
+                "active": false
+            },
+            {
+                "url": "http://localhost:8000/api/v1/organization/01G682MQPFM8K0SAPMSZP3WQ3Q/indeed/module-list?page=4",
+                "label": "4",
+                "active": false
+            },
+            {
+                "url": "http://localhost:8000/api/v1/organization/01G682MQPFM8K0SAPMSZP3WQ3Q/indeed/module-list?page=5",
+                "label": "5",
+                "active": false
+            },
+            {
+                "url": "http://localhost:8000/api/v1/organization/01G682MQPFM8K0SAPMSZP3WQ3Q/indeed/module-list?page=6",
+                "label": "6",
+                "active": false
+            },
+            {
+                "url": "http://localhost:8000/api/v1/organization/01G682MQPFM8K0SAPMSZP3WQ3Q/indeed/module-list?page=2",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "path": "http://localhost:8000/api/v1/organization/01G682MQPFM8K0SAPMSZP3WQ3Q/indeed/module-list",
+        "per_page": 15,
+        "to": 15,
+        "total": 80
+    },
+    "pageCount": 6,
+    "total": 80
+}
